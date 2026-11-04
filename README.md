@@ -37,6 +37,7 @@ Metal Mayhem 2 and World Tour aren't Flash. They're Adobe Director / Shockwave 3
 
 - **Commando Assault.** Removed the Miniclip "localhost only" check (`isLocal()`), and added a custom play.bihari.xyz title screen (`assault/title.jpg`). The original buttons sit invisibly over the ones drawn in the new image.
 - **Crush the Castle TD and Adventures.** Both refuse to run anywhere except armorgames.com. In each one I edited the single function that reads the site's domain so it always answers `armorgames.com`. The edits were made with the [JPEXS Flash decompiler](https://github.com/jindrapetrik/jpexs-decompiler).
+- **Crush the Castle 2.** Every level is open from the start, and every level gets all 16 weapons, including the Portal (normally the reward for getting gold on every castle). It also has custom play.bihari.xyz title and menu screens (`crush-the-castle-2/title.jpg`, `menu.jpg`), with the original buttons sitting invisibly over the ones drawn in the images. Buttons for Armor Games features that no longer work (People's Empire, login, iPhone, iPad, donate, social links) were removed.
 - **Made every game fill the screen** and added a small "menu" button in the corner.
 
 Nothing else in the games was changed.
