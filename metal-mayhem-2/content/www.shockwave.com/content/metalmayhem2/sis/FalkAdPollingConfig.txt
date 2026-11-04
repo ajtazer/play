@@ -1,0 +1,6 @@
+// 128 x 128
+OFF       UP       http://ad.doubleclick.net/pfadx/sw.nol/action/metalmayhem2/;gw=action;sec_0=metalmayhem2;u=|gw-action|sec_0-metalmayhem2;sz=128x128;
+// 256 x 128
+OFF       UP       http://ad.doubleclick.net/pfadx/sw.nol/action/metalmayhem2/;gw=action;sec_0=metalmayhem2;u=|gw-action|sec_0-metalmayhem2;sz=256x128;
+// 512 x 64
+OFF      UP       http://ad.doubleclick.net/pfadx/sw.nol/action/metalmayhem2/;gw=action;sec_0=metalmayhem2;u=|gw-action|sec_0-metalmayhem2;sz=512x64;

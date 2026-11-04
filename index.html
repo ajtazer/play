@@ -8,6 +8,7 @@
 <style>
   :root { --bg:#14120e; --panel:#24211a; --edge:#5b5547; --text:#e9e2cc; --dim:#a39a80; --neon:#1fb8ff; --army:#4b5a36; }
   * { box-sizing:border-box }
+  html { background:var(--bg) }
   body { margin:0; min-height:100vh; color:var(--text); font-family:Oswald,sans-serif;
     background:radial-gradient(ellipse at top,#2c2619,var(--bg) 70%) fixed; }
   header { text-align:center; padding:40px 16px 8px }
@@ -42,7 +43,7 @@
 
 <header>
   <h1>PLAY.<b>BIHARI</b>.XYZ</h1>
-  <p>Old Flash games, playable again</p>
+  <p>Old Flash &amp; Shockwave games, playable again</p>
 </header>
 <main id="grid"></main>
 <dialog id="pick"><h2></h2><div class="parts"></div><form method="dialog"><button>Close</button></form></dialog>
@@ -51,6 +52,7 @@
 <script>
 const series = [
   ["Commando Assault", [["assault", "Commando Assault"]]],
+  ["Metal Mayhem", [["metal-mayhem-2","Metal Mayhem 2"],["metal-mayhem-world-tour","World Tour"]]],
   ["Fancy Pants Adventures", [["fancy-pants-1","World 1"],["fancy-pants-2","World 2"],["fancy-pants-3","World 3"],
     ["fancy-pants-4-1","World 4 Part 1"],["fancy-pants-4-2","World 4 Part 2"],["fancy-pants-4-3","World 4 Part 3"]]],
   ["Crush the Castle", [["crush-the-castle","Crush the Castle"],["crush-the-castle-2","Crush the Castle 2"],
