@@ -1,0 +1,2648 @@
+{
+    "300": {
+        "apiKey": "76847b8f49ba048243725e4859fe9eb1",
+        "bytesTotal": 6566902,
+        "gameId": 12792,
+        "gameName": "300 Miles",
+        "shortKey": "300miles"
+    },
+    "abstract": {
+        "apiKey": "508ae68f86069ea049ed200642a639ae",
+        "bytesTotal": 2944100,
+        "gameId": 13699,
+        "gameName": "Abstract Defense",
+        "shortKey": "Abstract_D"
+    },
+    "ach-3": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 2097743,
+        "gameId": 13196,
+        "gameName": "Achievement Unlocked 3",
+        "shortKey": "AU3"
+    },
+    "aerorumble": {
+        "apiKey": "7478130d8c9d45df60e13df6961eac74",
+        "bytesTotal": 2934966,
+        "gameId": 10431,
+        "gameName": "AeroRumble",
+        "shortKey": "AeroRumble"
+    },
+    "age-of-warrior": {
+        "apiKey": "5971b10a6c25b36948c4326c18471cd3",
+        "bytesTotal": 10724498,
+        "gameId": 15690,
+        "gameName": "Age of Warrior",
+        "shortKey": ""
+    },
+    "aliensiege": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 5619157,
+        "gameId": 14083,
+        "gameName": "Alien Siege",
+        "shortKey": "CS4AS"
+    },
+    "alter": {
+        "apiKey": "765ab4aa6b9fbc1f29ce39658f6973b8",
+        "bytesTotal": 4940525,
+        "gameId": 5038,
+        "gameName": "alter",
+        "shortKey": "1m4be"
+    },
+    "amiran": {
+        "apiKey": "51f4e77f2bac7488bce2279fb9e5a34d",
+        "bytesTotal": 18493966,
+        "gameId": "",
+        "gameName": "Amiran",
+        "shortKey": ""
+    },
+    "anyway-fish": {
+        "apiKey": "ba30673e05164697189ea820353b723d",
+        "bytesTotal": 3263007,
+        "gameId": 12192,
+        "gameName": "Anyway Fish",
+        "shortKey": "Anyway_Fish"
+    },
+    "apocalypse": {
+        "apiKey": "76c681c701bd2cd784a3a14e51ddc47a",
+        "bytesTotal": 3050770,
+        "gameId": 18259,
+        "gameName": "Silverado Apocalypse Blaster",
+        "shortKey": ""
+    },
+    "arcane": {
+        "apiKey": "d7517eb794be8ff0e7619400a99e4b85",
+        "bytesTotal": 5082353,
+        "gameId": 12900,
+        "gameName": "Arcane Arena",
+        "shortKey": "ArcaneA"
+    },
+    "arena-game": {
+        "apiKey": "9f6eb2a299314e772fb66b445660a4c0",
+        "bytesTotal": 951281,
+        "gameId": 10215,
+        "gameName": "Armor Mayhem ",
+        "shortKey": "ArmorMayhem"
+    },
+    "asteroid-war": {
+        "apiKey": "0277c23ebc4ad99cb63c49d2bede09f6",
+        "bytesTotal": 6261316,
+        "gameId": 5122,
+        "gameName": "Asteroid War",
+        "shortKey": "1m4cB"
+    },
+    "atomic-puzzle-2": {
+        "apiKey": "fef3f162bc9c8dc6acde04a75915ad42",
+        "bytesTotal": 3716655,
+        "gameId": 12972,
+        "gameName": "Atomic Puzzle 2",
+        "shortKey": "AP2"
+    },
+    "atomik-3": {
+        "apiKey": "60095deae778612b0e5d6b84a7b9ccef",
+        "bytesTotal": 1959985,
+        "gameId": 12388,
+        "gameName": "Atomik Kaos 3",
+        "shortKey": "AtomikKaos3"
+    },
+    "au2": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 3333711,
+        "gameId": 6561,
+        "gameName": "Achievement Unlocked 2",
+        "shortKey": "au2"
+    },
+    "avalon-last-stand": {
+        "apiKey": "0efbfb0e42508db6fb58bd750cd0a9c3",
+        "bytesTotal": 2928524,
+        "gameId": 11650,
+        "gameName": "Avalon Last Stand",
+        "shortKey": "Avalon_LS"
+    },
+    "avian": {
+        "apiKey": "00a42aec6f0e5c3b98bb5fdb1f1bf35a",
+        "bytesTotal": 1696931,
+        "gameId": 12827,
+        "gameName": "Avian Mortar",
+        "shortKey": "TAM"
+    },
+    "avoidal": {
+        "apiKey": "7ed797a87b9699e40206ece770254d08",
+        "bytesTotal": 2571161,
+        "gameId": 7283,
+        "gameName": "Avoidal",
+        "shortKey": "avoidal"
+    },
+    "axon": {
+        "apiKey": "c227c797b5af58e6edadcbe1a2e0731e",
+        "bytesTotal": 7471885,
+        "gameId": 13108,
+        "gameName": "Axon",
+        "shortKey": "Axon"
+    },
+    "back-to-the-stars": {
+        "apiKey": "a2c8af16cd60332416d89798c6b3dd56",
+        "bytesTotal": 14927967,
+        "gameId": 14880,
+        "gameName": "Back to the Stars",
+        "shortKey": "BackToTheStars"
+    },
+    "back2back": {
+        "apiKey": "22210745a2753fd5e3532724a5a2e2d9",
+        "bytesTotal": 10441951,
+        "gameId": 5004,
+        "gameName": "Back-2-Back",
+        "shortKey": "bck2bck"
+    },
+    "balloon-wasteland": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 1998492,
+        "gameId": 5272,
+        "gameName": "Balloon in a Wasteland",
+        "shortKey": "Balloon"
+    },
+    "balloons": {
+        "apiKey": "1820b0872a51f3c1133e18aed1b03b45",
+        "bytesTotal": 2433088,
+        "gameId": 13942,
+        "gameName": "Bobs Balloons",
+        "shortKey": "Bobs_balloons"
+    },
+    "battlepaint": {
+        "apiKey": "191ebf770bd853595ebf8a356543a808",
+        "bytesTotal": 5691835,
+        "gameId": 10828,
+        "gameName": "BattlePaint",
+        "shortKey": "BattlePaint"
+    },
+    "bcommander": {
+        "apiKey": "f6ced36e43a58304d89f83be86304e89",
+        "bytesTotal": 4445581,
+        "gameId": 15338,
+        "gameName": "Battalion Commander",
+        "shortKey": ""
+    },
+    "beach-crazy": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 4634176,
+        "gameId": 15569,
+        "gameName": "Beach Crazy",
+        "shortKey": ""
+    },
+    "bean-men": {
+        "apiKey": "57e6ffa35f343197fbd276da0a94ccbb",
+        "bytesTotal": 5061618,
+        "gameId": 7286,
+        "gameName": "Bean Men",
+        "shortKey": "BeanMen"
+    },
+    "bio-assault": {
+        "apiKey": "6a6fb5c11bfb9abc84294050d244b4b4",
+        "bytesTotal": 2663737,
+        "gameId": 11031,
+        "gameName": "Bio Assault",
+        "shortKey": "BioAssault"
+    },
+    "bison-revenge": {
+        "apiKey": "76c681c701bd2cd784a3a14e51ddc47a",
+        "bytesTotal": 8662627,
+        "gameId": 12962,
+        "gameName": "Burrito Bison Revenge",
+        "shortKey": "BurritoB"
+    },
+    "bitejacker": {
+        "apiKey": "4bbef01c11d24beff28039df3102cc14",
+        "bytesTotal": 7897518,
+        "gameId": 10523,
+        "gameName": "BiteJacker",
+        "shortKey": "BiteJacker"
+    },
+    "blockgineer-2": {
+        "apiKey": "1823de132f9d541b8d4fc97b67fc3ce7",
+        "bytesTotal": 2636875,
+        "gameId": 13027,
+        "gameName": "Blockgineer 2",
+        "shortKey": "Block2"
+    },
+    "blueprint-3d": {
+        "apiKey": "74590433c0d4a76f54bf358a435431c2",
+        "bytesTotal": 11872346,
+        "gameId": 12557,
+        "gameName": "Blueprint 3D",
+        "shortKey": "BP3D"
+    },
+    "boat-game": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 6498490,
+        "gameId": 5787,
+        "gameName": "Micro Boats",
+        "shortKey": "boats"
+    },
+    "boom-town": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 4014940,
+        "gameId": 13125,
+        "gameName": "Boom Town",
+        "shortKey": "BoomTown"
+    },
+    "brain-2": {
+        "apiKey": "76847b8f49ba048243725e4859fe9eb1",
+        "bytesTotal": 5480361,
+        "gameId": 11294,
+        "gameName": "All we need is Brain 2",
+        "shortKey": "AWNIB2"
+    },
+    "brain-game": {
+        "apiKey": "76847b8f49ba048243725e4859fe9eb1",
+        "bytesTotal": 4021412,
+        "gameId": 7415,
+        "gameName": "All we need is Brain",
+        "shortKey": "Brain"
+    },
+    "brain-trainer": {
+        "apiKey": "149f5c825119357f19c105f46bb7aed1",
+        "bytesTotal": 2050866,
+        "gameId": 7316,
+        "gameName": "Brain Trainer",
+        "shortKey": "BrainWaves"
+    },
+    "bta": {
+        "apiKey": "0e7119b0e84444cfdd62a971cf60d6c4",
+        "bytesTotal": 3862428,
+        "gameId": 5967,
+        "gameName": "Bubble Tanks Arena",
+        "shortKey": "BTA"
+    },
+    "bttd2": {
+        "apiKey": "0e7119b0e84444cfdd62a971cf60d6c4",
+        "bytesTotal": 2733210,
+        "gameId": 13734,
+        "gameName": "BTTD2",
+        "shortKey": "BTTD2"
+    },
+    "bulletcar": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 4334700,
+        "gameId": 12066,
+        "gameName": "Bulletcar",
+        "shortKey": "BulletCar"
+    },
+    "bumble-tumble": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 934825,
+        "gameId": 6452,
+        "gameName": "Bumble Tumble",
+        "shortKey": "bumbletumble"
+    },
+    "bunny": {
+        "apiKey": "4a93458354e38af6551ea0bb2e716afd",
+        "bytesTotal": 10014987,
+        "gameId": 15469,
+        "gameName": "Bunny Flags 2",
+        "shortKey": "BunnyFlags2"
+    },
+    "burger-run": {
+        "apiKey": "081387e3d2eadbd854cb99963c2f9f3e",
+        "bytesTotal": 1741589,
+        "gameId": 13710,
+        "gameName": "60s Burger Run",
+        "shortKey": "60s_BurgerRun"
+    },
+    "bustabrain": {
+        "apiKey": "2e1a0ea07ba410b66df1e2aa99500abe",
+        "bytesTotal": 3908063,
+        "gameId": 7190,
+        "gameName": "Bustabrain",
+        "shortKey": "Busta"
+    },
+    "button-baron": {
+        "apiKey": "cec908d6666204d2ba06bd6a4c0acb42",
+        "bytesTotal": 3824997,
+        "gameId": 13318,
+        "gameName": "Big Time Button Baron",
+        "shortKey": "BTBB"
+    },
+    "cactus-2": {
+        "apiKey": "b9365840087d7a22e59e3ab63810af79",
+        "bytesTotal": 9862286,
+        "gameId": 12456,
+        "gameName": "Cactus McCoy 2",
+        "shortKey": "CactusM2"
+    },
+    "cactus-mccoy": {
+        "apiKey": "b9365840087d7a22e59e3ab63810af79",
+        "bytesTotal": 6761759,
+        "gameId": 10882,
+        "gameName": "Cactus McCoy",
+        "shortKey": "CactusMcCoy"
+    },
+    "canary": {
+        "apiKey": "721fd3013205b46a6255b5871877379d",
+        "bytesTotal": 2300548,
+        "gameId": 12383,
+        "gameName": "Canary",
+        "shortKey": "Canary"
+    },
+    "canopy": {
+        "apiKey": "721fd3013205b46a6255b5871877379d",
+        "bytesTotal": 1983394,
+        "gameId": 12375,
+        "gameName": "Canopy",
+        "shortKey": "Canopy"
+    },
+    "cargo-bridge-armor-edition": {
+        "apiKey": "e9bbaf01ded37da46f78c48bf838f697",
+        "bytesTotal": 1042612,
+        "gameId": 5171,
+        "gameName": "Cargo Bridge Armor Edition",
+        "shortKey": "1m5B8"
+    },
+    "cargo-bridge-xmas": {
+        "apiKey": "e9bbaf01ded37da46f78c48bf838f697",
+        "bytesTotal": 851838,
+        "gameId": 4941,
+        "gameName": "Cargo Bridge Xmas",
+        "shortKey": "1m5Ag"
+    },
+    "carveola": {
+        "apiKey": "66bce93ce6e439ba1bbc53cc527b02c8",
+        "bytesTotal": 5905812,
+        "gameId": 10827,
+        "gameName": "Carveola Incident",
+        "shortKey": "Carveola"
+    },
+    "carveola-2118-ad": {
+        "apiKey": "66bce93ce6e439ba1bbc53cc527b02c8",
+        "bytesTotal": 4011705,
+        "gameId": 13024,
+        "gameName": "Carveola 2118 AD",
+        "shortKey": "CI2118AD"
+    },
+    "castaway-2": {
+        "apiKey": "150fa058ac61d33029b24c5dbd7ada02",
+        "bytesTotal": 8290862,
+        "gameId": 11261,
+        "gameName": "Castaway 2",
+        "shortKey": "castaway2"
+    },
+    "castlecorp": {
+        "apiKey": "721fd3013205b46a6255b5871877379d",
+        "bytesTotal": 2928390,
+        "gameId": 12627,
+        "gameName": "Castle Corp",
+        "shortKey": "C_Corp"
+    },
+    "cat-god-vs-sun-god-2": {
+        "apiKey": "baf71565f700334b76a9d5fe4e5a05e9",
+        "bytesTotal": 6430933,
+        "gameId": 14846,
+        "gameName": "Cat God vs Sun God 2",
+        "shortKey": "CatGvSunK2"
+    },
+    "catapult-madness": {
+        "apiKey": "9f6eb2a299314e772fb66b445660a4c0",
+        "bytesTotal": 6886284,
+        "gameId": 6646,
+        "gameName": "Catapult Madness",
+        "shortKey": "Catapult"
+    },
+    "chief": {
+        "apiKey": "f72b7b74ac0f26d42bf37811f73e849e",
+        "bytesTotal": 4327171,
+        "gameId": 12025,
+        "gameName": "Chief",
+        "shortKey": "Chief"
+    },
+    "chisel": {
+        "apiKey": "721fd3013205b46a6255b5871877379d",
+        "bytesTotal": 1360972,
+        "gameId": 12283,
+        "gameName": "Chisel",
+        "shortKey": "Chisel"
+    },
+    "chisel2": {
+        "apiKey": "721fd3013205b46a6255b5871877379d",
+        "bytesTotal": 2837568,
+        "gameId": 12382,
+        "gameName": "Chisel 2",
+        "shortKey": "Chisel2"
+    },
+    "chronicles": {
+        "apiKey": "b120e49938eecdcbb0ba6517c4f6d7ef",
+        "bytesTotal": 9815589,
+        "gameId": 13132,
+        "gameName": "Monster Den Chronicles",
+        "shortKey": "MonsterDenChronicles"
+    },
+    "chuck-the-sheep": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 3870421,
+        "gameId": 12556,
+        "gameName": "Chuck the Sheep",
+        "shortKey": "chuck"
+    },
+    "city-siege": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 3255206,
+        "gameId": 7574,
+        "gameName": "City Siege",
+        "shortKey": "City-Siege"
+    },
+    "city-siege-2": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 3751938,
+        "gameId": 11370,
+        "gameName": "City Siege 2",
+        "shortKey": "CitySiege2"
+    },
+    "civiballs-xmas": {
+        "apiKey": "2e7ac417628eecbda77b9167fbdca944",
+        "bytesTotal": 3254629,
+        "gameId": 5049,
+        "gameName": "civiballs xmas",
+        "shortKey": "1m4ML"
+    },
+    "click-tribe": {
+        "apiKey": "16c38b8401829630e8c42136dd75f3f8",
+        "bytesTotal": 4883817,
+        "gameId": 10937,
+        "gameName": "Click Tribe",
+        "shortKey": "ClickTribe"
+    },
+    "clickplay-3": {
+        "apiKey": "2e1a0ea07ba410b66df1e2aa99500abe",
+        "bytesTotal": 3191744,
+        "gameId": 10375,
+        "gameName": "Clickplay 3",
+        "shortKey": "ClickPLAY3"
+    },
+    "coinbox-hero": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 5311509,
+        "gameId": 12247,
+        "gameName": "Coinbox Hero",
+        "shortKey": "coinbox-hero"
+    },
+    "collapse-it": {
+        "apiKey": "f890223d577ebf906b907e1ced7c917e",
+        "bytesTotal": 4905663,
+        "gameId": 10500,
+        "gameName": "Collapse It",
+        "shortKey": "CollapseIt"
+    },
+    "colony": {
+        "apiKey": "72ea217affa7d5ff716e5a6f04f568b1",
+        "bytesTotal": 8609420,
+        "gameId": 4264,
+        "gameName": "Colony",
+        "shortKey": "Colony"
+    },
+    "color-carnage": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 714495,
+        "gameId": 6591,
+        "gameName": "Color Carnage",
+        "shortKey": "colorcarnage"
+    },
+    "control-craft": {
+        "apiKey": "a32ac586db4ebf783972917b8d947f94",
+        "bytesTotal": 6010544,
+        "gameId": 7553,
+        "gameName": "Control Craft",
+        "shortKey": "ControlCraft"
+    },
+    "corporation-inc": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 4005241,
+        "gameId": 7348,
+        "gameName": "Corporation Inc",
+        "shortKey": "corporation-inc"
+    },
+    "crazy-golf-ish": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 3632599,
+        "gameId": 15714,
+        "gameName": "Crazy Golf-Ish",
+        "shortKey": ""
+    },
+    "creeper": {
+        "apiKey": "4b4a8ecb88c52a65b3d00f94b2fdd1a9",
+        "bytesTotal": 5189564,
+        "gameId": 12592,
+        "gameName": "Creeper World",
+        "shortKey": "CreeperWorld"
+    },
+    "crumpled": {
+        "apiKey": "58ed9291d1ecd75f3f9fd080499bd970",
+        "bytesTotal": 2410202,
+        "gameId": 12889,
+        "gameName": "Crumpled",
+        "shortKey": "Crumpled"
+    },
+    "crunkodile": {
+        "apiKey": "aec1a33405b2eebe5ee9bb649bf0457c",
+        "bytesTotal": 4932150,
+        "gameId": 13576,
+        "gameName": "Nak the Crunkodile",
+        "shortKey": "N_T_C"
+    },
+    "crush": {
+        "apiKey": "cac52b9764faaff2392ee180a15fa80f",
+        "bytesTotal": 1776888,
+        "gameId": 12357,
+        "gameName": "Crush Thine Enemies",
+        "shortKey": "CTE"
+    },
+    "crush-the-castle-2": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 10983516,
+        "gameId": 6137,
+        "gameName": "Crush the Castle 2",
+        "shortKey": "CTC2"
+    },
+    "crush-the-castle-2-pp": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 10434373,
+        "gameId": 11099,
+        "gameName": "Crush The Castle 2 Players Pack",
+        "shortKey": "ctc2pp"
+    },
+    "crush-the-castle-players-pack": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 3558510,
+        "gameId": 4552,
+        "gameName": "Crush the Castle Players Pack",
+        "shortKey": "CtCplay"
+    },
+    "crush-the-castle-td": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 18292312,
+        "gameId": 12044,
+        "gameName": "Crush the Castle TD",
+        "shortKey": "CrushTheCastleTD"
+    },
+    "ct2": {
+        "apiKey": "f6ced36e43a58304d89f83be86304e89",
+        "bytesTotal": 20760965,
+        "gameId": 14412,
+        "gameName": "Cursed Treasure 2",
+        "shortKey": "CursedTreasure2"
+    },
+    "culmination": {
+        "apiKey": "602157fde441ce9d336ec1ccbea77252",
+        "bytesTotal": 9065950,
+        "gameId": 12631,
+        "gameName": "Culmination",
+        "shortKey": "Culmination"
+    },
+    "cursed-dungeon": {
+        "apiKey": "0c29db1c15edc54fb8ebd2e2bc8636a3",
+        "bytesTotal": 4915706,
+        "gameId": 12519,
+        "gameName": "Cursed Dungeon",
+        "shortKey": "CD"
+    },
+    "dance-battle": {
+        "apiKey": "f99dadc3a4b74a2cf5d0611043438af7",
+        "bytesTotal": 6665258,
+        "gameId": 6648,
+        "gameName": "Dance Battle",
+        "shortKey": "dance"
+    },
+    "darkness-2": {
+        "apiKey": "c014c62a9d6bf89b1a512c9f6dc61334",
+        "bytesTotal": 1260357,
+        "gameId": 6377,
+        "gameName": "Darkness 2",
+        "shortKey": "dark2"
+    },
+    "deadswitch-2": {
+        "apiKey": "8cefb26f708250392208c28db2c45295",
+        "bytesTotal": 10433773,
+        "gameId": 14803,
+        "gameName": "Deadswitch II",
+        "shortKey": "Deadswitch2"
+    },
+    "decision": {
+        "apiKey": "f72b7b74ac0f26d42bf37811f73e849e",
+        "bytesTotal": 11108441,
+        "gameId": 12983,
+        "gameName": "Decision",
+        "shortKey": "Decision"
+    },
+    "decision2": {
+        "apiKey": "f72b7b74ac0f26d42bf37811f73e849e",
+        "bytesTotal": 13204448,
+        "gameId": 13694,
+        "gameName": "Decision 2",
+        "shortKey": "Decision2"
+    },
+    "defem": {
+        "apiKey": "f52e4486f64f7b59071b63b29604c582",
+        "bytesTotal": 3919796,
+        "gameId": 6186,
+        "gameName": "DEFEM",
+        "shortKey": "803H"
+    },
+    "defend-your-nuts": {
+        "apiKey": "dfc8dc5a948847229a1aeb2b190505ce",
+        "bytesTotal": 2098382,
+        "gameId": 12144,
+        "gameName": "Defend Your Nuts",
+        "shortKey": "DYN"
+    },
+    "defendless": {
+        "apiKey": "b340975d56c3710d653bbf66b0e9481c",
+        "bytesTotal": 3513667,
+        "gameId": 15079,
+        "gameName": "DefEndless",
+        "shortKey": ""
+    },
+    "demolisher": {
+        "apiKey": "3c1fdb6985a3041a9a1a244dc5d710a8",
+        "bytesTotal": 6404367,
+        "gameId": 12979,
+        "gameName": "Building Demolisher",
+        "shortKey": "BuildingDemolisher"
+    },
+    "demolition-city-2": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 3095803,
+        "gameId": 4611,
+        "gameName": "Demolition City 2",
+        "shortKey": "dCity2"
+    },
+    "demolition-dude": {
+        "apiKey": "f25471b2dc66d3d1e0882999dac19da9",
+        "bytesTotal": 2501492,
+        "gameId": 5388,
+        "gameName": "demolition dude",
+        "shortKey": "DemoDude"
+    },
+    "demonrift": {
+        "apiKey": "90fbcc31d1fc6bff2cc91b248940467d",
+        "bytesTotal": 7761706,
+        "gameId": 12440,
+        "gameName": "Demonrift TD",
+        "shortKey": "D_TD"
+    },
+    "dibbles3": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 4249665,
+        "gameId": 13609,
+        "gameName": "Dibbles 3",
+        "shortKey": "Dibbles3"
+    },
+    "dibblespropack": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 2495752,
+        "gameId": 13635,
+        "gameName": "Dibbles Pro Pack",
+        "shortKey": ""
+    },
+    "dibblesxmas": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 4186450,
+        "gameId": 14248,
+        "gameName": "Dibbles Xmas",
+        "shortKey": "DibblesXMAS"
+    },
+    "diepix2": {
+        "apiKey": "48d3df7dba9d9a6ee3f17166069787b2",
+        "bytesTotal": 4925697,
+        "gameId": 11372,
+        "gameName": "Diepix Arena 2",
+        "shortKey": "Dp_Arena2"
+    },
+    "diesel-valkyrie": {
+        "apiKey": "150fa058ac61d33029b24c5dbd7ada02",
+        "bytesTotal": 6059996,
+        "gameId": 7268,
+        "gameName": "Diesel Valkyrie",
+        "shortKey": "undead"
+    },
+    "dimension-diver": {
+        "apiKey": "d2cd5aac07b58e38fea466c6d7f697a2",
+        "bytesTotal": 10334949,
+        "gameId": 11563,
+        "gameName": "Dimension Diver",
+        "shortKey": "Dimension_Diver"
+    },
+    "dinosaur-treadmill": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 1940184,
+        "gameId": 6740,
+        "gameName": "Treadmillasaurus Rex ",
+        "shortKey": "treadmillasaurus"
+    },
+    "disaster": {
+        "apiKey": "7496b6c3a4e8637e27d61563a1fd775b",
+        "bytesTotal": 3866268,
+        "gameId": 13254,
+        "gameName": "Disaster Will Strike",
+        "shortKey": "DWS"
+    },
+    "disco-dave": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 5885982,
+        "gameId": 6592,
+        "gameName": "Disco Daves Funk-a-stroll",
+        "shortKey": "funkostroll"
+    },
+    "distress-signal": {
+        "apiKey": "115fcc9c18549bf4d9dc139ea5de4335",
+        "bytesTotal": 5256311,
+        "gameId": 7065,
+        "gameName": "Distress Signal",
+        "shortKey": "Distress"
+    },
+    "dn1": {
+        "apiKey": "baf71565f700334b76a9d5fe4e5a05e9",
+        "bytesTotal": 4312361,
+        "gameId": 13872,
+        "gameName": "Deadly Neighbors 1",
+        "shortKey": "DeadlyNeighbors"
+    },
+    "dn2": {
+        "apiKey": "baf71565f700334b76a9d5fe4e5a05e9",
+        "bytesTotal": 6676244,
+        "gameId": 13873,
+        "gameName": "Deadly Neighbors 2",
+        "shortKey": "DeadlyNeighbors2"
+    },
+    "dn8": {
+        "apiKey": "2cc814bd5116763bd50155bb83731dfa",
+        "bytesTotal": 1093052,
+        "gameId": 11352,
+        "gameName": "DN8",
+        "shortKey": "DN8"
+    },
+    "dont-panic": {
+        "apiKey": "1be007daf07f64b93eff343714b07d95",
+        "bytesTotal": 6571419,
+        "gameId": 11366,
+        "gameName": "Dont Panic",
+        "shortKey": "DontPanic"
+    },
+    "doodle-defense": {
+        "apiKey": "a9d8fc6bead11a5e57299695fa48386e",
+        "bytesTotal": 2038510,
+        "gameId": 7090,
+        "gameName": "Doodle Defense",
+        "shortKey": "1LsrM"
+    },
+    "doodle-devil": {
+        "apiKey": "093d705e8817e201197a0eca6684ee6a",
+        "bytesTotal": 3607816,
+        "gameId": 7384,
+        "gameName": "Doodle Devil",
+        "shortKey": "DoodleDevil"
+    },
+    "doodle-god-2": {
+        "apiKey": "093d705e8817e201197a0eca6684ee6a",
+        "bytesTotal": 4809551,
+        "gameId": 11411,
+        "gameName": "Doodle God 2",
+        "shortKey": "DoodleGod_2"
+    },
+    "double-panda": {
+        "apiKey": "19a33fde754bc805c3e8b4c6614b34eb",
+        "bytesTotal": 1095940,
+        "gameId": 7291,
+        "gameName": "Double Panda",
+        "shortKey": "DoublePanda"
+    },
+    "drop-dead-2": {
+        "apiKey": "261d8514eb7586d6c540622e7453f33d",
+        "bytesTotal": 7400575,
+        "gameId": 7357,
+        "gameName": "Drop Dead 2",
+        "shortKey": "DD2"
+    },
+    "dude-and-zombies": {
+        "apiKey": "a72e87e04d0529dd95b548503e263fda",
+        "bytesTotal": 3672566,
+        "gameId": 12095,
+        "gameName": "Dude and Zombies",
+        "shortKey": "DZ"
+    },
+    "dummy-never-fails": {
+        "apiKey": "ecf0aa1cc2f12c8b88d808de1ac63d14",
+        "bytesTotal": 3690548,
+        "gameId": 5775,
+        "gameName": "Dummy Never Fails",
+        "shortKey": "DummyNeverFails"
+    },
+    "dungeonking": {
+        "apiKey": "1f4c18c584ae2eb215e0cd0cc86d5e5a",
+        "bytesTotal": 4359899,
+        "gameId": 13054,
+        "gameName": "Dungeon King",
+        "shortKey": "DungeonKing"
+    },
+    "duplicator": {
+        "apiKey": "1c62e27bae31eb5ebe24caadea25ad4d",
+        "bytesTotal": 4533582,
+        "gameId": 10684,
+        "gameName": "Duplicator",
+        "shortKey": "Duplicator"
+    },
+    "dvm2": {
+        "apiKey": "61c7eb3048fbdcb6805a8a9ca67afe97",
+        "bytesTotal": 4494121,
+        "gameId": 14073,
+        "gameName": "Death vs Monsters 2",
+        "shortKey": "DvM2"
+    },
+    "effing-hail": {
+        "apiKey": "abe4756fe28c0da944002e72889bd257",
+        "bytesTotal": 1198798,
+        "gameId": 3480,
+        "gameName": "Effing Hail",
+        "shortKey": "hailing"
+    },
+    "effing-meteors": {
+        "apiKey": "abe4756fe28c0da944002e72889bd257",
+        "bytesTotal": 1927730,
+        "gameId": 10265,
+        "gameName": "Effing Meteors",
+        "shortKey": "1NzMO"
+    },
+    "elephant-quest": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 3679670,
+        "gameId": 10606,
+        "gameName": "Elephant Quest",
+        "shortKey": "elephant-quest"
+    },
+    "elevator": {
+        "apiKey": "f6ac3c3e50128fa1fbda40957b4b460e",
+        "bytesTotal": 1569651,
+        "gameId": 13478,
+        "gameName": "Elevator Breakout",
+        "shortKey": ""
+    },
+    "empire-island": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 5150185,
+        "gameId": 7290,
+        "gameName": "Empire Island",
+        "shortKey": "Empire"
+    },
+    "endless-migration": {
+        "apiKey": "8c6ac7db4110982abc97dab2a20c681a",
+        "bytesTotal": 689202,
+        "gameId": 5172,
+        "gameName": "Endless Migration",
+        "shortKey": "1m4qm"
+    },
+    "enemy585": {
+        "apiKey": "721fd3013205b46a6255b5871877379d",
+        "bytesTotal": 2158605,
+        "gameId": 12567,
+        "gameName": "Enemy 585",
+        "shortKey": "E585"
+    },
+    "enigmatastellarwar": {
+        "apiKey": "539418669c9868321457a2e38a0b3ed9",
+        "bytesTotal": 5295958,
+        "gameId": 13508,
+        "gameName": "Enigmata Stellar War",
+        "shortKey": ""
+    },
+    "enola": {
+        "apiKey": "79d5d5b6f3a4501f18f6107c212940af",
+        "bytesTotal": 12838266,
+        "gameId": 14428,
+        "gameName": "Enola - Prelude",
+        "shortKey": ""
+    },
+    "epic-battle-fantasy-4": {
+        "apiKey": "b8cb4aba41975fc909e198bd6c662a4f",
+        "bytesTotal": 32485769,
+        "gameId": 14799,
+        "gameName": "Epic Battle Fantasy 4",
+        "shortKey": ""
+    },
+    "epic-boss-fighter": {
+        "apiKey": "c7344488882351685d04ed097b1e9927",
+        "bytesTotal": 6537801,
+        "gameId": 15837,
+        "gameName": "Epic Boss Fighter",
+        "shortKey": ""
+    },
+    "epic-charlie": {
+        "apiKey": "7a121a560c008e4aafe61050fc7121a3",
+        "bytesTotal": 5798592,
+        "gameId": 11070,
+        "gameName": "Epic Charlie",
+        "shortKey": "EpicC"
+    },
+    "epic-combo": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 797597,
+        "gameId": 6677,
+        "gameName": "Epic Combo!",
+        "shortKey": "epic-combo"
+    },
+    "epic-combo-redux": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 2111327,
+        "gameId": 13256,
+        "gameName": "Epic Combo Redux",
+        "shortKey": "epic-combo-redux"
+    },
+    "exit-path-dos": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 16982392,
+        "gameId": 11887,
+        "gameName": "Exit Path 2",
+        "shortKey": "exitpath2"
+    },
+    "exit-path-release": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 6398172,
+        "gameId": 5917,
+        "gameName": "Exit Path",
+        "shortKey": "exitpath"
+    },
+    "experimental-shooter-2": {
+        "apiKey": "513d409e3905e96058987bbc9b6f09c1",
+        "bytesTotal": 6710497,
+        "gameId": 15684,
+        "gameName": "Experimental Shooter 2",
+        "shortKey": ""
+    },
+    "farflung": {
+        "apiKey": "69fdae508f81d2728e641b771913487a",
+        "bytesTotal": 2920490,
+        "gameId": 14907,
+        "gameName": "Farflung",
+        "shortKey": ""
+    },
+    "faster-miter-master": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 1249509,
+        "gameId": 6375,
+        "gameName": "Faster Miter Master",
+        "shortKey": "FMmaster"
+    },
+    "firebug": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 4584704,
+        "gameId": 13336,
+        "gameName": "Fire Bug",
+        "shortKey": "FBug"
+    },
+    "firebug2": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 3889674,
+        "gameId": 13337,
+        "gameName": "Fire Bug 2",
+        "shortKey": "FBug2"
+    },
+    "fishy": {
+        "apiKey": "db99326b06b5fb1ba60b51ebf54eadd6",
+        "bytesTotal": 5947983,
+        "gameId": 6699,
+        "gameName": "Fishy",
+        "shortKey": ""
+    },
+    "flaming-zombooka-3": {
+        "apiKey": "57e6ffa35f343197fbd276da0a94ccbb",
+        "bytesTotal": 5595204,
+        "gameId": 12590,
+        "gameName": "Flaming Zombooka 3",
+        "shortKey": ""
+    },
+    "flight": {
+        "apiKey": "72ea217affa7d5ff716e5a6f04f568b1",
+        "bytesTotal": 8570756,
+        "gameId": 7598,
+        "gameName": "Flight Game",
+        "shortKey": "Flight"
+    },
+    "flock": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 1888988,
+        "gameId": 6871,
+        "gameName": "Flock Together",
+        "shortKey": "flocktogether"
+    },
+    "fly-and-blast": {
+        "apiKey": "6a6fb5c11bfb9abc84294050d244b4b4",
+        "bytesTotal": 2259732,
+        "gameId": 11087,
+        "gameName": "Fly-and-Blast",
+        "shortKey": "FlyBlast"
+    },
+    "forest-temple": {
+        "apiKey": "58ed9291d1ecd75f3f9fd080499bd970",
+        "bytesTotal": 1855972,
+        "gameId": 4900,
+        "gameName": "Forest Temple",
+        "shortKey": "1m4q1"
+    },
+    "forest-temple-2": {
+        "apiKey": "58ed9291d1ecd75f3f9fd080499bd970",
+        "bytesTotal": 3961776,
+        "gameId": 7172,
+        "gameName": "Forest Temple 2",
+        "shortKey": ""
+    },
+    "forest-temple-3": {
+        "apiKey": "58ed9291d1ecd75f3f9fd080499bd970",
+        "bytesTotal": 3877806,
+        "gameId": 13143,
+        "gameName": "Forest Temple 3",
+        "shortKey": ""
+    },
+    "fort-blaster": {
+        "apiKey": "cede5e1c2e44ffe7fa7641e404283ec9",
+        "bytesTotal": 7187064,
+        "gameId": 13500,
+        "gameName": "Fort Blaster",
+        "shortKey": ""
+    },
+    "friendly-fire": {
+        "apiKey": "75986a96d5967363af3432099b6e2bc8",
+        "bytesTotal": 4876297,
+        "gameId": 5889,
+        "gameName": "Friendly Fire TaD",
+        "shortKey": "FFTaD"
+    },
+    "from-beyond": {
+        "apiKey": "d18e2c80097e3bb9e84421927d6af694",
+        "bytesTotal": 3201168,
+        "gameId": 10942,
+        "gameName": "From Beyond",
+        "shortKey": "frombeyond"
+    },
+    "fun-da-vinci": {
+        "apiKey": "07cf98a34a91f81e988d9e42631c6657",
+        "bytesTotal": 2347202,
+        "gameId": 10964,
+        "gameName": "Fun da Vinci",
+        "shortKey": "FunVinci"
+    },
+    "g-switch": {
+        "apiKey": "7b6469f56623e533e0d321dd66ebc82c",
+        "bytesTotal": 2546386,
+        "gameId": 5397,
+        "gameName": "G Switch",
+        "shortKey": "G-Switch"
+    },
+    "gem-raid": {
+        "apiKey": "9f6eb2a299314e772fb66b445660a4c0",
+        "bytesTotal": 1703344,
+        "gameId": 10792,
+        "gameName": "Gem Raid",
+        "shortKey": "GemRaid"
+    },
+    "gibbets-2-level-pack": {
+        "apiKey": "f890223d577ebf906b907e1ced7c917e",
+        "bytesTotal": 2911689,
+        "gameId": 7178,
+        "gameName": "Gibbets 2 Level Pack",
+        "shortKey": "gibbets2LP"
+    },
+    "give-up": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 1958174,
+        "gameId": 13662,
+        "gameName": "Give Up",
+        "shortKey": ""
+    },
+    "go-repo": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 5873019,
+        "gameId": 15804,
+        "gameName": "Go Repo",
+        "shortKey": ""
+    },
+    "gravitum": {
+        "apiKey": "52e5bf474f1054df0d8545026a99e121",
+        "bytesTotal": 7815066,
+        "gameId": 15562,
+        "gameName": "Gravitum",
+        "shortKey": ""
+    },
+    "gravity-guy": {
+        "apiKey": "6904f3ed897cc503503ef6d3437c9d00",
+        "bytesTotal": 9915247,
+        "gameId": 7508,
+        "gameName": "Gravity Guy",
+        "shortKey": "GravityGuy"
+    },
+    "growbox": {
+        "apiKey": "71ae51d3b9c842339ee62f487a90132e",
+        "bytesTotal": 1422782,
+        "gameId": 4613,
+        "gameName": "Growbox",
+        "shortKey": "1m4R7"
+    },
+    "guardian-rock": {
+        "apiKey": "fa05bc3e20421902d30bb98757e46a1a",
+        "bytesTotal": 3578246,
+        "gameId": 4802,
+        "gameName": "Guardian Rock",
+        "shortKey": "1myLV"
+    },
+    "gunball-arena": {
+        "apiKey": "c73e321ca1ff1028261bbe73e689b380",
+        "bytesTotal": 9368602,
+        "gameId": 10503,
+        "gameName": "GunBall Arena",
+        "shortKey": "GunBallArena"
+    },
+    "gyrocopter": {
+        "apiKey": "baf71565f700334b76a9d5fe4e5a05e9",
+        "bytesTotal": 2810551,
+        "gameId": 12074,
+        "gameName": "Jacob and the Gyrocopter",
+        "shortKey": "JATG"
+    },
+    "hack-slash-crawl": {
+        "apiKey": "ecaf513b466c32bd679ae770af72a449",
+        "bytesTotal": 817132,
+        "gameId": 10373,
+        "gameName": "Hack Slash Crawl",
+        "shortKey": ""
+    },
+    "halloween-sugar-rush": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 1827964,
+        "gameId": 4761,
+        "gameName": "Halloween Sugar Rush",
+        "shortKey": "sugrush"
+    },
+    "hammy-hammy-hammy-hammy-hammy-hammy-yay": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 6228732,
+        "gameId": 14040,
+        "gameName": "Hammy the Flying Squirrel",
+        "shortKey": ""
+    },
+    "hands-of-war-tower-defense": {
+        "apiKey": "b0045cf319d8c48f53c079afff0d53bc",
+        "bytesTotal": 7350146,
+        "gameId": 12804,
+        "gameName": "Hands of War Tower Defense",
+        "shortKey": ""
+    },
+    "hanger": {
+        "apiKey": "eda998dd136edeec521fecf77fdc5555",
+        "bytesTotal": 3589781,
+        "gameId": 12505,
+        "gameName": "Hanger 2",
+        "shortKey": "Hanger_2"
+    },
+    "heir-game": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 3507391,
+        "gameId": 5995,
+        "gameName": "Heir",
+        "shortKey": "heirgame"
+    },
+    "helicops": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 6952430,
+        "gameId": 5138,
+        "gameName": "Helicops",
+        "shortKey": "1myMV"
+    },
+    "house-of-wolves": {
+        "apiKey": "9f6eb2a299314e772fb66b445660a4c0",
+        "bytesTotal": 13042448,
+        "gameId": 15014,
+        "gameName": "House of Wolves",
+        "shortKey": ""
+    },
+    "how3": {
+        "apiKey": "b0045cf319d8c48f53c079afff0d53bc",
+        "bytesTotal": 23666369,
+        "gameId": 14732,
+        "gameName": "Hands of War 3",
+        "shortKey": ""
+    },
+    "i-hate-traffic": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 913706,
+        "gameId": 4890,
+        "gameName": "I Hate Traffic",
+        "shortKey": "Traffic"
+    },
+    "i-of-it": {
+        "apiKey": "081387e3d2eadbd854cb99963c2f9f3e",
+        "bytesTotal": 2169004,
+        "gameId": 11371,
+        "gameName": "The I of It",
+        "shortKey": "TheIofIt"
+    },
+    "icy-cave": {
+        "apiKey": "19a33fde754bc805c3e8b4c6614b34eb",
+        "bytesTotal": 857468,
+        "gameId": 7524,
+        "gameName": "Icy Cave",
+        "shortKey": "IcyCave"
+    },
+    "incursion-2": {
+        "apiKey": "83d938b9a0459dfded37429cf095116a",
+        "bytesTotal": 19840310,
+        "gameId": 14978,
+        "gameName": "Incursion 2",
+        "shortKey": ""
+    },
+    "inertia": {
+        "apiKey": "6abb636fc3ee3f6bb83a6eb85af8d602",
+        "bytesTotal": 2488344,
+        "gameId": 4804,
+        "gameName": "Inertia",
+        "shortKey": "inert"
+    },
+    "infect-2": {
+        "apiKey": "854b4e92ca10ca37da032c09e036d353",
+        "bytesTotal": 10363228,
+        "gameId": 13150,
+        "gameName": "Infectonator 2",
+        "shortKey": "Infect2"
+    },
+    "infinitix": {
+        "apiKey": "708b9775b522ce09cca0c852b31a07df",
+        "bytesTotal": 5490149,
+        "gameId": 12818,
+        "gameName": "Infinitix",
+        "shortKey": "Infinitix"
+    },
+    "innkeeper": {
+        "apiKey": "6bc1b1a840a0de96f307c1d4f905175f",
+        "bytesTotal": 3141933,
+        "gameId": 13050,
+        "gameName": "Innkeeper",
+        "shortKey": ""
+    },
+    "insane-rogue": {
+        "apiKey": "baf71565f700334b76a9d5fe4e5a05e9",
+        "bytesTotal": 2332881,
+        "gameId": 10330,
+        "gameName": "Insane Rogue AI",
+        "shortKey": "RogueAI"
+    },
+    "insectonator": {
+        "apiKey": "f72b7b74ac0f26d42bf37811f73e849e",
+        "bytesTotal": 2590290,
+        "gameId": 11189,
+        "gameName": "Insectonator",
+        "shortKey": "insect"
+    },
+    "insectonator-zombies": {
+        "apiKey": "f72b7b74ac0f26d42bf37811f73e849e",
+        "bytesTotal": 4395928,
+        "gameId": 11434,
+        "gameName": "Insectonator Zombies",
+        "shortKey": "Insect_Zombies"
+    },
+    "intergalactic-rumble": {
+        "apiKey": "6a6fb5c11bfb9abc84294050d244b4b4",
+        "bytesTotal": 2919325,
+        "gameId": 7036,
+        "gameName": "Intergalactic Rumble",
+        "shortKey": "rumble"
+    },
+    "into-space": {
+        "apiKey": "03a4ade60a8ab73dcf584fbc3fee3512",
+        "bytesTotal": 5874117,
+        "gameId": 7338,
+        "gameName": "Into Space!",
+        "shortKey": "IntoSpace"
+    },
+    "iron-terror": {
+        "apiKey": "d22f119e064cb4d5df4073cde5bf3d1c",
+        "bytesTotal": 9570433,
+        "gameId": 11903,
+        "gameName": "Iron Terror",
+        "shortKey": "IronTerror"
+    },
+    "island-td": {
+        "apiKey": "150fa058ac61d33029b24c5dbd7ada02",
+        "bytesTotal": 8288459,
+        "gameId": 12200,
+        "gameName": "Castaway Island TD",
+        "shortKey": "CastawayTD"
+    },
+    "islands-of-empire": {
+        "apiKey": "f555f1780e3058bcd5c2359934cef066",
+        "bytesTotal": 5715649,
+        "gameId": 10238,
+        "gameName": "Islands of Empire",
+        "shortKey": ""
+    },
+    "istunt-2": {
+        "apiKey": "6904f3ed897cc503503ef6d3437c9d00",
+        "bytesTotal": 7566002,
+        "gameId": 10762,
+        "gameName": "iStunt 2",
+        "shortKey": "iStunt2"
+    },
+    "itank-3": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 9561295,
+        "gameId": 7144,
+        "gameName": "Indestructothanks 3",
+        "shortKey": "iTank3"
+    },
+    "jaffa-cakes": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 1185228,
+        "gameId": 6376,
+        "gameName": "Nook",
+        "shortKey": "nook"
+    },
+    "jellyescape": {
+        "apiKey": "91c7dce8fd4a17896e2c06cd157346d4",
+        "bytesTotal": 8330082,
+        "gameId": 13191,
+        "gameName": "Jelly Escape",
+        "shortKey": ""
+    },
+    "jetpack-jerome": {
+        "apiKey": "e5aa938cd078b8b84b60aa6e4ae81f73",
+        "bytesTotal": 4065783,
+        "gameId": 12156,
+        "gameName": "Jetpack Jerome",
+        "shortKey": "Jetpack_J"
+    },
+    "joe": {
+        "apiKey": "a18199f9aae76adb8f29ae23ed522784",
+        "bytesTotal": 4974852,
+        "gameId": 12404,
+        "gameName": "Concerned Joe",
+        "shortKey": "C_Joe"
+    },
+    "johnny-upgrade": {
+        "apiKey": "081387e3d2eadbd854cb99963c2f9f3e",
+        "bytesTotal": 3961903,
+        "gameId": 13189,
+        "gameName": "Johnny Upgrade",
+        "shortKey": "JohnnyU"
+    },
+    "jolls": {
+        "apiKey": "2e7ac417628eecbda77b9167fbdca944",
+        "bytesTotal": 2849198,
+        "gameId": 5514,
+        "gameName": "jolls",
+        "shortKey": "jolls"
+    },
+    "kaboomz": {
+        "apiKey": "c73e321ca1ff1028261bbe73e689b380",
+        "bytesTotal": 1660036,
+        "gameId": 7220,
+        "gameName": "Kaboomz",
+        "shortKey": "Kaboomz"
+    },
+    "kawairun": {
+        "apiKey": "a18199f9aae76adb8f29ae23ed522784",
+        "bytesTotal": 3845869,
+        "gameId": 12723,
+        "gameName": "Kawairun",
+        "shortKey": "Kawairun"
+    },
+    "kill-the-heroes": {
+        "apiKey": "baf71565f700334b76a9d5fe4e5a05e9",
+        "bytesTotal": 5204141,
+        "gameId": 13139,
+        "gameName": "Kill the Heroes",
+        "shortKey": "KTH"
+    },
+    "killer-robot-factory": {
+        "apiKey": "b1305031561c7d56b1adc6bb061d776b",
+        "bytesTotal": 3766583,
+        "gameId": 4766,
+        "gameName": "The Killer Robot Factory",
+        "shortKey": "1m4Qi"
+    },
+    "kind-of-like-metroid-two": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 6506769,
+        "gameId": 11743,
+        "gameName": "KOLM 2",
+        "shortKey": "KOLM2"
+    },
+    "king-of-shapes": {
+        "apiKey": "2e7ac417628eecbda77b9167fbdca944",
+        "bytesTotal": 2249110,
+        "gameId": 6241,
+        "gameName": "King of Shapes",
+        "shortKey": "shapes"
+    },
+    "kingdom-rush": {
+        "apiKey": "3d6ddc62dd9beaf78afac4022209705a",
+        "bytesTotal": 32149996,
+        "gameId": 12141,
+        "gameName": "Kingdom Rush",
+        "shortKey": ""
+    },
+    "kings-league": {
+        "apiKey": "92b680828e572506ff51c1bc6f5f7ce5",
+        "bytesTotal": 3651564,
+        "gameId": 12310,
+        "gameName": "The Kings League",
+        "shortKey": "TKL"
+    },
+    "knight": {
+        "apiKey": "721fd3013205b46a6255b5871877379d",
+        "bytesTotal": 1245856,
+        "gameId": 12377,
+        "gameName": "Knight Trap",
+        "shortKey": "KT"
+    },
+    "kolmiam": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 5573191,
+        "gameId": 10297,
+        "gameName": "K.O.L.M.I.A.M.",
+        "shortKey": "KOLMIAM"
+    },
+    "lab-dead": {
+        "apiKey": "47c84ed89dd19ea8c0612cf9075c2f1a",
+        "bytesTotal": 29532849,
+        "gameId": 12531,
+        "gameName": "Lab of the Dead",
+        "shortKey": ""
+    },
+    "labyrinth-secrets-of-shadowhaven": {
+        "apiKey": "aa1682fa4b76635e19c1ef50b2d1e3a7",
+        "bytesTotal": 2591252,
+        "gameId": 15794,
+        "gameName": "Labyrinth Secrets of ShadowHaven",
+        "shortKey": ""
+    },
+    "laser-cannon-2": {
+        "apiKey": "fef3f162bc9c8dc6acde04a75915ad42",
+        "bytesTotal": 2506618,
+        "gameId": 11416,
+        "gameName": "Laser Cannon 2",
+        "shortKey": "LaserCannon2"
+    },
+    "last-command": {
+        "apiKey": "d2e24c71325c406d6092127c2fabc620",
+        "bytesTotal": 2465248,
+        "gameId": 6136,
+        "gameName": "Last Command",
+        "shortKey": ""
+    },
+    "last-robot-2": {
+        "apiKey": "a42c85c194a80a9061e3a387e5abcdc0",
+        "bytesTotal": 4347752,
+        "gameId": 13051,
+        "gameName": "Last Robot 2",
+        "shortKey": "LR2"
+    },
+    "let-it-glow-2": {
+        "apiKey": "910c57d96eafff537d7d1cbff1736760",
+        "bytesTotal": 2272077,
+        "gameId": 12888,
+        "gameName": "Let It Glow 2",
+        "shortKey": "LIG2"
+    },
+    "level-editor": {
+        "apiKey": "fef3f162bc9c8dc6acde04a75915ad42",
+        "bytesTotal": 4556209,
+        "gameId": 4888,
+        "gameName": "Level Editor",
+        "shortKey": "1m5D9"
+    },
+    "lightbot-2": {
+        "apiKey": "f99dadc3a4b74a2cf5d0611043438af7",
+        "bytesTotal": 4920315,
+        "gameId": 6061,
+        "gameName": "Lightbot 2",
+        "shortKey": "LightBot2"
+    },
+    "lotv2": {
+        "apiKey": "15c67d7fb9f6a1d1427045f06c8fc292",
+        "bytesTotal": 25644481,
+        "gameId": null,
+        "gameName": "Legend of the Void 2",
+        "shortKey": ""
+    },
+    "magnetic-rush": {
+        "apiKey": "903f1378e88e2519ae41a6408f997d61",
+        "bytesTotal": 3130346,
+        "gameId": 10108,
+        "gameName": "Magnetic Rush",
+        "shortKey": "MagneticRush"
+    },
+    "man-in-gap": {
+        "apiKey": "e0b91c0b0f729d8ae52ce551d5b556f1",
+        "bytesTotal": 977530,
+        "gameId": 10353,
+        "gameName": "Man in Gap",
+        "shortKey": "ManInGap"
+    },
+    "manic-rally": {
+        "apiKey": "7612243099cc16e5212ba4d9bb900b58",
+        "bytesTotal": 7905159,
+        "gameId": 6002,
+        "gameName": "Manic Rally",
+        "shortKey": ""
+    },
+    "max-connect-2": {
+        "apiKey": "d6ac6a613e22ec6e0ce3a82935fffca0",
+        "bytesTotal": 4410800,
+        "gameId": 7098,
+        "gameName": "Max Connect 2",
+        "shortKey": "connect2"
+    },
+    "mecharon": {
+        "apiKey": "79e21b72c5de0ede882ff0091ca0dcb0",
+        "bytesTotal": 7797350,
+        "gameId": 5192,
+        "gameName": "mecharon",
+        "shortKey": "1m5Ez"
+    },
+    "mecharon-2": {
+        "apiKey": "79e21b72c5de0ede882ff0091ca0dcb0",
+        "bytesTotal": 5286787,
+        "gameId": 10437,
+        "gameName": "Mecharon 2",
+        "shortKey": "Mecharon2"
+    },
+    "minute-hardcore": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 6057860,
+        "gameId": 12533,
+        "gameName": "Minute Hardcore",
+        "shortKey": "minute-hardcore"
+    },
+    "mirror": {
+        "apiKey": "ebf905ba73dfa9ed206d4ca1093cedfe",
+        "bytesTotal": 4716962,
+        "gameId": 7562,
+        "gameName": "Mirror",
+        "shortKey": "Mirror"
+    },
+    "missilebreak": {
+        "apiKey": "f5e51f626532af764b304ec06573b432",
+        "bytesTotal": 2689082,
+        "gameId": 12497,
+        "gameName": "Missilebreak Outvaders",
+        "shortKey": "Mb_O"
+    },
+    "missing-mechanism": {
+        "apiKey": "a90b7480ba11663b304082310275242c",
+        "bytesTotal": 2503732,
+        "gameId": 7171,
+        "gameName": "Missing Mechanism",
+        "shortKey": "MM"
+    },
+    "moby-dick": {
+        "apiKey": "e01a84ec49dfae14958072b219ad74b0",
+        "bytesTotal": 4468955,
+        "gameId": 7199,
+        "gameName": "Moby Dick",
+        "shortKey": "Moby"
+    },
+    "moby2": {
+        "apiKey": "e01a84ec49dfae14958072b219ad74b0",
+        "bytesTotal": 5110092,
+        "gameId": 12662,
+        "gameName": "Moby 2",
+        "shortKey": "MD2"
+    },
+    "monomaze": {
+        "apiKey": "fbf4be5a4214efe217ac57ed297b107c",
+        "bytesTotal": 1798406,
+        "gameId": 10075,
+        "gameName": "Monomaze",
+        "shortKey": "Monomaze"
+    },
+    "monster-island": {
+        "apiKey": "6904f3ed897cc503503ef6d3437c9d00",
+        "bytesTotal": 7566380,
+        "gameId": 12331,
+        "gameName": "Monster Island",
+        "shortKey": "Monster_Island"
+    },
+    "monster-legions": {
+        "apiKey": "baf71565f700334b76a9d5fe4e5a05e9",
+        "bytesTotal": 6066164,
+        "gameId": 14691,
+        "gameName": "Monster Legions",
+        "shortKey": ""
+    },
+    "monster-slayers": {
+        "apiKey": "baf71565f700334b76a9d5fe4e5a05e9",
+        "bytesTotal": 2720077,
+        "gameId": 7296,
+        "gameName": "Monster Slayers",
+        "shortKey": "slayers"
+    },
+    "moontype": {
+        "apiKey": "4dac4acb0eebc3489f0a08939d51eb32",
+        "bytesTotal": 2726845,
+        "gameId": 11700,
+        "gameName": "MoonType",
+        "shortKey": "Moontype"
+    },
+    "more-cat": {
+        "apiKey": "cec908d6666204d2ba06bd6a4c0acb42",
+        "bytesTotal": 9007904,
+        "gameId": 13335,
+        "gameName": "Time 4 More Cat",
+        "shortKey": "T4MC"
+    },
+    "morplee": {
+        "apiKey": "2e1a0ea07ba410b66df1e2aa99500abe",
+        "bytesTotal": 2093073,
+        "gameId": 6302,
+        "gameName": "Morplee",
+        "shortKey": "morplee"
+    },
+    "mr-runner": {
+        "apiKey": "5571d3f644105431aecec55a0e46dde7",
+        "bytesTotal": 761968,
+        "gameId": 5761,
+        "gameName": "Mr Runner",
+        "shortKey": "runner"
+    },
+    "multitask-2": {
+        "apiKey": "82b29e9db4e6e22a1538ccd37ddf173e",
+        "bytesTotal": 4545014,
+        "gameId": 11152,
+        "gameName": "Multitask 2",
+        "shortKey": "MultiTask2"
+    },
+    "naked-alien": {
+        "apiKey": "2aab16d715690b59574a76a1a5dbd8c9",
+        "bytesTotal": 9075405,
+        "gameId": 14868,
+        "gameName": "Naked Alien",
+        "shortKey": ""
+    },
+    "nano-ninja": {
+        "apiKey": "4ba19bc6c8eb8c926b46b0f3dd8e6864",
+        "bytesTotal": 577130,
+        "gameId": 5625,
+        "gameName": "Nano Ninja",
+        "shortKey": "ninja"
+    },
+    "necrorun2": {
+        "apiKey": "61a855972d7c4b2726b1e70b874fdfe6",
+        "bytesTotal": 4230462,
+        "gameId": 13224,
+        "gameName": "Necrorun 2",
+        "shortKey": ""
+    },
+    "neon-rider-world": {
+        "apiKey": "9f6eb2a299314e772fb66b445660a4c0",
+        "bytesTotal": 3999235,
+        "gameId": 6876,
+        "gameName": "Neon Rider World",
+        "shortKey": "NeonRider"
+    },
+    "nextplease": {
+        "apiKey": "910c57d96eafff537d7d1cbff1736760",
+        "bytesTotal": 1790997,
+        "gameId": 12923,
+        "gameName": "Next Please",
+        "shortKey": ""
+    },
+    "nightflies": {
+        "apiKey": "7496b6c3a4e8637e27d61563a1fd775b",
+        "bytesTotal": 6645861,
+        "gameId": 14190,
+        "gameName": "NIGHTFLIES",
+        "shortKey": "NIGHTFLIES"
+    },
+    "nightmare": {
+        "apiKey": "1693e34a1b2500d9a914ae21106edcbd",
+        "bytesTotal": 4062509,
+        "gameId": 13814,
+        "gameName": "Nightmare Runner",
+        "shortKey": ""
+    },
+    "ninja-hamster": {
+        "apiKey": "baf71565f700334b76a9d5fe4e5a05e9",
+        "bytesTotal": 1976633,
+        "gameId": 10552,
+        "gameName": "Ninja Hamsters",
+        "shortKey": "1OgCm"
+    },
+    "ninjabear": {
+        "apiKey": "649ed64534e6a5c2fb3f8a0333b15c4d",
+        "bytesTotal": 4424511,
+        "gameId": 12891,
+        "gameName": "Ninja Bear",
+        "shortKey": "BearNinja"
+    },
+    "nokkians-2": {
+        "apiKey": "48d3df7dba9d9a6ee3f17166069787b2",
+        "bytesTotal": 5385484,
+        "gameId": 7356,
+        "gameName": "The Nokkians 2",
+        "shortKey": "Nokkians2"
+    },
+    "nuclear-outrun": {
+        "apiKey": "baf71565f700334b76a9d5fe4e5a05e9",
+        "bytesTotal": 2671792,
+        "gameId": 13327,
+        "gameName": "Nuclear Outrun",
+        "shortKey": "N_O"
+    },
+    "nuclearoids": {
+        "apiKey": "b15cabde69537cb269cb5ce45082767d",
+        "bytesTotal": 3412780,
+        "gameId": 7496,
+        "gameName": "Nuclearoids",
+        "shortKey": "Nuclearoids"
+    },
+    "nyan-cat": {
+        "apiKey": "aec1a33405b2eebe5ee9bb649bf0457c",
+        "bytesTotal": 4302399,
+        "gameId": 13214,
+        "gameName": "Nyan Cat FLY",
+        "shortKey": "NyanCF"
+    },
+    "obey-the-game": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 961381,
+        "gameId": 4987,
+        "gameName": "Obey! The Game",
+        "shortKey": "Obey"
+    },
+    "one-button-arthur": {
+        "apiKey": "2e1a0ea07ba410b66df1e2aa99500abe",
+        "bytesTotal": 4039354,
+        "gameId": 6700,
+        "gameName": "One Button Arhur",
+        "shortKey": "OBA"
+    },
+    "orbital-onslaught": {
+        "apiKey": "baf71565f700334b76a9d5fe4e5a05e9",
+        "bytesTotal": 1708111,
+        "gameId": 11157,
+        "gameName": "Orbital Onslaught",
+        "shortKey": "OO"
+    },
+    "outerspatial": {
+        "apiKey": "deaafc04b749047339a760750302a22c",
+        "bytesTotal": 2740765,
+        "gameId": 11355,
+        "gameName": "Outerspatial",
+        "shortKey": "Outerspatial"
+    },
+    "outpost": {
+        "apiKey": "2cc814bd5116763bd50155bb83731dfa",
+        "bytesTotal": 9552256,
+        "gameId": 12801,
+        "gameName": "Outpost",
+        "shortKey": "Outpost"
+    },
+    "pancakeria": {
+        "apiKey": "b9365840087d7a22e59e3ab63810af79",
+        "bytesTotal": 5964187,
+        "gameId": 13068,
+        "gameName": "Pancakeria",
+        "shortKey": "Papas_P"
+    },
+    "panzertroopers": {
+        "apiKey": "a97cc2f2ca9946ed8033aa6bada73bce",
+        "bytesTotal": 5667246,
+        "gameId": 10933,
+        "gameName": "Panzertroopers",
+        "shortKey": "Panzertroopers"
+    },
+    "papas-burgeria": {
+        "apiKey": "b9365840087d7a22e59e3ab63810af79",
+        "bytesTotal": 3121782,
+        "gameId": 10029,
+        "gameName": "Papas Burgeria",
+        "shortKey": "PapaBurgeria"
+    },
+    "papas-freezeria": {
+        "apiKey": "b9365840087d7a22e59e3ab63810af79",
+        "bytesTotal": 8316047,
+        "gameId": 12067,
+        "gameName": "Papas Freezeria",
+        "shortKey": "Papas_F"
+    },
+    "paper-warfare": {
+        "apiKey": "6a6fb5c11bfb9abc84294050d244b4b4",
+        "bytesTotal": 2126428,
+        "gameId": 5473,
+        "gameName": "paper warfare",
+        "shortKey": "1q1Rt"
+    },
+    "particle-wars": {
+        "apiKey": "0c83fa52cd486d4a3bac4dd04a96f2bb",
+        "bytesTotal": 1835395,
+        "gameId": 10915,
+        "gameName": "Particle Wars Extreme",
+        "shortKey": ""
+    },
+    "penguins-attack-3": {
+        "apiKey": "41fc977e7c5062c362263e30ae881756",
+        "bytesTotal": 8220611,
+        "gameId": 10077,
+        "gameName": "Penguins Attack 3",
+        "shortKey": "PenguinsAttack3"
+    },
+    "pix-wiz": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 6376351,
+        "gameId": 12257,
+        "gameName": "Pixel Wizards",
+        "shortKey": ""
+    },
+    "pixel-basher": {
+        "apiKey": "7a877d676b11d90b9b77d3a688b7ccea",
+        "bytesTotal": 3261977,
+        "gameId": 5832,
+        "gameName": "Pixel Basher",
+        "shortKey": "pixbash"
+    },
+    "pixel-legions": {
+        "apiKey": "765ab4aa6b9fbc1f29ce39658f6973b8",
+        "bytesTotal": 3482377,
+        "gameId": 5978,
+        "gameName": "pixel legions",
+        "shortKey": ""
+    },
+    "pixel-purge": {
+        "apiKey": "84c6d85e2a6ead2bd2bc034dff62ec82",
+        "bytesTotal": 2634786,
+        "gameId": 6804,
+        "gameName": "Pixel Purge",
+        "shortKey": "Pixel"
+    },
+    "planet-noevo": {
+        "apiKey": "9f6eb2a299314e772fb66b445660a4c0",
+        "bytesTotal": 7945339,
+        "gameId": 5766,
+        "gameName": "Planet Noevo",
+        "shortKey": ""
+    },
+    "playground-launch": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 2330813,
+        "gameId": 10551,
+        "gameName": "Playground Launch",
+        "shortKey": "pogo-swing"
+    },
+    "poto-cabenga": {
+        "apiKey": "6e1abb5f4edaa4034f775a755528a13b",
+        "bytesTotal": 3206924,
+        "gameId": 5870,
+        "gameName": "Poto and Cabenga",
+        "shortKey": "hZBo"
+    },
+    "professor-spelunkington": {
+        "apiKey": "40500019aa5b64a1859b4d6ce74e6fa2",
+        "bytesTotal": 2728148,
+        "gameId": 7050,
+        "gameName": "Professor Spelunkington",
+        "shortKey": "Professor-S"
+    },
+    "pup-run": {
+        "apiKey": "415dbce57b6398243433ab2ef166c06f",
+        "bytesTotal": 3037003,
+        "gameId": 10702,
+        "gameName": "Pup Run",
+        "shortKey": "PupRun"
+    },
+    "quietus2": {
+        "apiKey": "00a42aec6f0e5c3b98bb5fdb1f1bf35a",
+        "bytesTotal": 5832312,
+        "gameId": 13946,
+        "gameName": "Quietus 2",
+        "shortKey": ""
+    },
+    "rachin-pichin": {
+        "apiKey": "92b680828e572506ff51c1bc6f5f7ce5",
+        "bytesTotal": 2412464,
+        "gameId": 7176,
+        "gameName": "ReachinPichin",
+        "shortKey": "pichin"
+    },
+    "radio-zed": {
+        "apiKey": "d0f2ad060b330b2bdb0669c8672edeab",
+        "bytesTotal": 1381898,
+        "gameId": 7326,
+        "gameName": "Radio Zed",
+        "shortKey": ""
+    },
+    "railbot": {
+        "apiKey": "f99dadc3a4b74a2cf5d0611043438af7",
+        "bytesTotal": 13519670,
+        "gameId": 14052,
+        "gameName": "Railbot",
+        "shortKey": ""
+    },
+    "railroad-shunting": {
+        "apiKey": "16d3a84f5359e60624c52913df61814d",
+        "bytesTotal": 4064044,
+        "gameId": 7324,
+        "gameName": "Railroad Shunting Puzzle",
+        "shortKey": "railroad"
+    },
+    "ray-ardent": {
+        "apiKey": "e28128be67edd847954884f5961e9b10",
+        "bytesTotal": 12320913,
+        "gameId": 7306,
+        "gameName": "Ray Ardent Science Ninja",
+        "shortKey": "RayArdent"
+    },
+    "raze-2": {
+        "apiKey": "8305de24f40bccbf25b991ca6d443334",
+        "bytesTotal": 16140788,
+        "gameId": 12275,
+        "gameName": "Raze 2",
+        "shortKey": ""
+    },
+    "rebuild": {
+        "apiKey": "68878bc717158477b72892532f9eafe9",
+        "bytesTotal": 5046795,
+        "gameId": 10572,
+        "gameName": "Rebuild",
+        "shortKey": "Rebuild"
+    },
+    "rebuild2": {
+        "apiKey": "68878bc717158477b72892532f9eafe9",
+        "bytesTotal": 15057413,
+        "gameId": 12389,
+        "gameName": "Rebuild 2",
+        "shortKey": "Rebuild2"
+    },
+    "redeye-1031": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 5254129,
+        "gameId": 4760,
+        "gameName": "Redeye 1031",
+        "shortKey": "Redeye"
+    },
+    "reeelz": {
+        "apiKey": "0b6f0974daf89baf1c863138c009fb37",
+        "bytesTotal": 1674776,
+        "gameId": 6829,
+        "gameName": "Reeelz",
+        "shortKey": "Reeelz"
+    },
+    "rescue-on-cocoa-farm": {
+        "apiKey": "57e6ffa35f343197fbd276da0a94ccbb",
+        "bytesTotal": 5235530,
+        "gameId": 7221,
+        "gameName": "Rescue On Cocoa Farm",
+        "shortKey": "ROCF"
+    },
+    "retroshoot360": {
+        "apiKey": "f0ad50e57b3eb67ad32db047c6d953d5",
+        "bytesTotal": 5800792,
+        "gameId": 5357,
+        "gameName": "RetroShoot 360",
+        "shortKey": "1m4WB"
+    },
+    "rhythm-rockets": {
+        "apiKey": "f99dadc3a4b74a2cf5d0611043438af7",
+        "bytesTotal": 1094543,
+        "gameId": 6449,
+        "gameName": "Rhythm Rockets",
+        "shortKey": "rockets"
+    },
+    "road-of-the-dead": {
+        "apiKey": "47c84ed89dd19ea8c0612cf9075c2f1a",
+        "bytesTotal": 25693519,
+        "gameId": 7164,
+        "gameName": "Road of the Dead",
+        "shortKey": ""
+    },
+    "road-of-the-dead-2": {
+        "apiKey": "47c84ed89dd19ea8c0612cf9075c2f1a",
+        "bytesTotal": 44736220,
+        "gameId": 15688,
+        "gameName": "Road of the Dead 2",
+        "shortKey": ""
+    },
+    "roar-rampage": {
+        "apiKey": "19a33fde754bc805c3e8b4c6614b34eb",
+        "bytesTotal": 1875265,
+        "gameId": 13232,
+        "gameName": "Roar Rampage",
+        "shortKey": "R_R"
+    },
+    "roboblast": {
+        "apiKey": "50036531acd6b73c1981e955a388ba7e",
+        "bytesTotal": 9366261,
+        "gameId": 5720,
+        "gameName": "RoboBlast",
+        "shortKey": "robo"
+    },
+    "rolling-fall": {
+        "apiKey": "fa80739c177d72035310e11235f708e9",
+        "bytesTotal": 2303327,
+        "gameId": 7482,
+        "gameName": "Rolling Fall",
+        "shortKey": "RollingFall"
+    },
+    "rubbletrouble": {
+        "apiKey": "721fd3013205b46a6255b5871877379d",
+        "bytesTotal": 1606991,
+        "gameId": 12285,
+        "gameName": "Rubble Trouble New York",
+        "shortKey": "RT_NY"
+    },
+    "samurai": {
+        "apiKey": "602157fde441ce9d336ec1ccbea77252",
+        "bytesTotal": 5134576,
+        "gameId": 14258,
+        "gameName": "Samurai Autumn",
+        "shortKey": "S_A"
+    },
+    "sandcastle": {
+        "apiKey": "7b55273c5c704af21c83e6b9406a7a5c",
+        "bytesTotal": 913752,
+        "gameId": 5137,
+        "gameName": "SandCastle",
+        "shortKey": "1m5C9"
+    },
+    "sandcastle-ai": {
+        "apiKey": "7b55273c5c704af21c83e6b9406a7a5c",
+        "bytesTotal": 1173874,
+        "gameId": 12104,
+        "gameName": "Sandcastle Ancient Invasion",
+        "shortKey": "Sc_A_I"
+    },
+    "save-the-queen": {
+        "apiKey": "413ec0a3b485d5319bfd7564877172c0",
+        "bytesTotal": 3198819,
+        "gameId": 6178,
+        "gameName": "Save the Queen",
+        "shortKey": "aIZi"
+    },
+    "sc2-tgp": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 8213027,
+        "gameId": 13815,
+        "gameName": "Sushi Cat 2 The Great Purrade",
+        "shortKey": "sc2-tgp"
+    },
+    "science-fiction": {
+        "apiKey": "61fc588235880de79ae38358d5e93901",
+        "bytesTotal": 4002500,
+        "gameId": 7434,
+        "gameName": "Museum of Science Fiction",
+        "shortKey": "MOSF"
+    },
+    "sheriff-sam": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 1208266,
+        "gameId": 6455,
+        "gameName": "Sheriff Sam",
+        "shortKey": ""
+    },
+    "sichiken": {
+        "apiKey": "4d8e36a3fd219b24850ff9532322ec64",
+        "bytesTotal": 9374946,
+        "gameId": 13127,
+        "gameName": "Sichiken",
+        "shortKey": ""
+    },
+    "siege3": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 4906369,
+        "gameId": 12614,
+        "gameName": "City Siege 3",
+        "shortKey": "CS3"
+    },
+    "sieger": {
+        "apiKey": "0182428830002608c6b9e437616504a0",
+        "bytesTotal": 4597273,
+        "gameId": 6833,
+        "gameName": "Sieger",
+        "shortKey": "Sieger"
+    },
+    "sieger-level-pack": {
+        "apiKey": "0182428830002608c6b9e437616504a0",
+        "bytesTotal": 7542437,
+        "gameId": 11417,
+        "gameName": "Sieger Level Pack",
+        "shortKey": "SiegePP"
+    },
+    "silly": {
+        "apiKey": "721fd3013205b46a6255b5871877379d",
+        "bytesTotal": 1130351,
+        "gameId": 12376,
+        "gameName": "Silly Sausage",
+        "shortKey": "Silly_S"
+    },
+    "sinjid": {
+        "apiKey": "72ea217affa7d5ff716e5a6f04f568b1",
+        "bytesTotal": 3297937,
+        "gameId": 13549,
+        "gameName": "Sinjid",
+        "shortKey": ""
+    },
+    "sketchman": {
+        "apiKey": "6904f3ed897cc503503ef6d3437c9d00",
+        "bytesTotal": 5284610,
+        "gameId": 13486,
+        "gameName": "Sketchman",
+        "shortKey": "Sketchman"
+    },
+    "skyfyre-2": {
+        "apiKey": "fac8fe7b017c44c44919a092f6ad69c0",
+        "bytesTotal": 4936871,
+        "gameId": 10666,
+        "gameName": "Sky Fyre 2",
+        "shortKey": "Skyfyre2"
+    },
+    "snake": {
+        "apiKey": "81283ad4bd0580b47b1356e5beaa0d63",
+        "bytesTotal": 4414068,
+        "gameId": 13945,
+        "gameName": "Snake Squad",
+        "shortKey": "SnakeSquad"
+    },
+    "sniper": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 5164493,
+        "gameId": 13832,
+        "gameName": "Sniper Siege",
+        "shortKey": ""
+    },
+    "snowmageddon": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 4622348,
+        "gameId": 5143,
+        "gameName": "Snowmageddon",
+        "shortKey": "snoma"
+    },
+    "snowtale": {
+        "apiKey": "19a33fde754bc805c3e8b4c6614b34eb",
+        "bytesTotal": 1266720,
+        "gameId": 12834,
+        "gameName": "Snow Tale",
+        "shortKey": "SnowTale"
+    },
+    "solipskier": {
+        "apiKey": "4061bbb1181d8dbe9907f3bba3c7fd8e",
+        "bytesTotal": 4035670,
+        "gameId": 6919,
+        "gameName": "Solipskier",
+        "shortKey": "solipskier"
+    },
+    "soviet-giraffe": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 5010709,
+        "gameId": 11377,
+        "gameName": "Soviet Giraffe",
+        "shortKey": "rocket-giraffe"
+    },
+    "space-attack": {
+        "apiKey": "9f6eb2a299314e772fb66b445660a4c0",
+        "bytesTotal": 6207931,
+        "gameId": 5228,
+        "gameName": "Space Attack",
+        "shortKey": "1m5Bb"
+    },
+    "space-madness": {
+        "apiKey": "5965a726395e3068dec058903237f5f4",
+        "bytesTotal": 1468651,
+        "gameId": 6156,
+        "gameName": "Space Madness",
+        "shortKey": ""
+    },
+    "spitfire-1940": {
+        "apiKey": "149f5c825119357f19c105f46bb7aed1",
+        "bytesTotal": 7362386,
+        "gameId": 10388,
+        "gameName": "Spitfire 1940",
+        "shortKey": ""
+    },
+    "starclaws": {
+        "apiKey": "57e6ffa35f343197fbd276da0a94ccbb",
+        "bytesTotal": 3650663,
+        "gameId": 12632,
+        "gameName": "Starclaws",
+        "shortKey": "Starcrawl"
+    },
+    "starlight": {
+        "apiKey": "74590433c0d4a76f54bf358a435431c2",
+        "bytesTotal": 2477326,
+        "gameId": 4998,
+        "gameName": "starlight",
+        "shortKey": "1m4sU"
+    },
+    "starlight-2": {
+        "apiKey": "74590433c0d4a76f54bf358a435431c2",
+        "bytesTotal": 5795497,
+        "gameId": 5542,
+        "gameName": "starlight 2",
+        "shortKey": "Starlight2"
+    },
+    "starlight-xmas": {
+        "apiKey": "74590433c0d4a76f54bf358a435431c2",
+        "bytesTotal": 4049701,
+        "gameId": 7558,
+        "gameName": "Starlight Xmas",
+        "shortKey": "Starlight-Xmas"
+    },
+    "steak-and-jake": {
+        "apiKey": "b9365840087d7a22e59e3ab63810af79",
+        "bytesTotal": 4974192,
+        "gameId": 6761,
+        "gameName": "Steak and Jake",
+        "shortKey": "SteakJake"
+    },
+    "sticks": {
+        "apiKey": "81e402f6d18cfd00bc230089f5128a2a",
+        "bytesTotal": 3771588,
+        "gameId": 10252,
+        "gameName": "$ticks",
+        "shortKey": "Sticks"
+    },
+    "sticky-ninja": {
+        "apiKey": "57e6ffa35f343197fbd276da0a94ccbb",
+        "bytesTotal": 4934645,
+        "gameId": 12539,
+        "gameName": "Sticky Ninja Academy",
+        "shortKey": "SNA"
+    },
+    "stitchland-conflict": {
+        "apiKey": "6a6fb5c11bfb9abc84294050d244b4b4",
+        "bytesTotal": 3105128,
+        "gameId": 6796,
+        "gameName": "Stitchland Conflict",
+        "shortKey": "stitchland"
+    },
+    "strike-force-heroes-2": {
+        "apiKey": "8305de24f40bccbf25b991ca6d443334",
+        "bytesTotal": 16361371,
+        "gameId": 14775,
+        "gameName": "Strike Force Heroes 2",
+        "shortKey": ""
+    },
+    "stuntcrazy": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 4927453,
+        "gameId": 11740,
+        "gameName": "Stunt Crazy",
+        "shortKey": "StuntCrazy"
+    },
+    "successful-experiment": {
+        "apiKey": "903f1378e88e2519ae41a6408f997d61",
+        "bytesTotal": 3271809,
+        "gameId": 11482,
+        "gameName": "Successful Experiment",
+        "shortKey": "Successful_Expirement"
+    },
+    "super-bomb-bugs": {
+        "apiKey": "a851fbd2624e47eddddb0594b82e7664",
+        "bytesTotal": 5957679,
+        "gameId": 14970,
+        "gameName": "Super Bomb Bugs",
+        "shortKey": "SBB"
+    },
+    "super-kotaro-kun": {
+        "apiKey": "29c67f8c427f366ae2efa717dce71b4a",
+        "bytesTotal": 6070331,
+        "gameId": 13965,
+        "gameName": "Super Kotaro Kun",
+        "shortKey": ""
+    },
+    "super-pig": {
+        "apiKey": "26ac89b847bef39832772a9fd97c39fb",
+        "bytesTotal": 1377756,
+        "gameId": 12959,
+        "gameName": "Super Pig",
+        "shortKey": "SuperPig"
+    },
+    "sushi-cat": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 7521148,
+        "gameId": 5379,
+        "gameName": "Sushi Cat",
+        "shortKey": "SushiCat"
+    },
+    "sushi-cat-2": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 7090320,
+        "gameId": 10471,
+        "gameName": "Sushi Cat 2",
+        "shortKey": "sushi-cat-2"
+    },
+    "sushi-cat-the-honeymoon": {
+        "apiKey": "85d704741f150237dc2f6960e8d81ccc",
+        "bytesTotal": 6712774,
+        "gameId": 6301,
+        "gameName": "Sushi Cat The Honeymoon",
+        "shortKey": "honeymoon"
+    },
+    "svz": {
+        "apiKey": "7c01ff522fd8a0f6c7ec8e52819fda0a",
+        "bytesTotal": 7048488,
+        "gameId": 14737,
+        "gameName": "Shotgun vs Zombies",
+        "shortKey": "SvsZ"
+    },
+    "swindler": {
+        "apiKey": "721fd3013205b46a6255b5871877379d",
+        "bytesTotal": 1801738,
+        "gameId": 13282,
+        "gameName": "Swindler",
+        "shortKey": "Swindler"
+    },
+    "taberinos": {
+        "apiKey": "475c133c097733698945bf27d3fe4778",
+        "bytesTotal": 441676,
+        "gameId": 5544,
+        "gameName": "taberinos",
+        "shortKey": ""
+    },
+    "takeover": {
+        "apiKey": "f6ced36e43a58304d89f83be86304e89",
+        "bytesTotal": 16227128,
+        "gameId": 13880,
+        "gameName": "TakeOver",
+        "shortKey": ""
+    },
+    "tetraform": {
+        "apiKey": "b08ee338b9acae65cfd36e6e16408920",
+        "bytesTotal": 5664933,
+        "gameId": 5062,
+        "gameName": "tetraform",
+        "shortKey": "1myO2"
+    },
+    "the-last-stand-union-city": {
+        "apiKey": "f5484b7812392262863a06d9a9414818",
+        "bytesTotal": 21184907,
+        "gameId": 12009,
+        "gameName": "The Last Stand: Union City",
+        "shortKey": ""
+    },
+    "them-coconuts": {
+        "apiKey": "75986a96d5967363af3432099b6e2bc8",
+        "bytesTotal": 4926099,
+        "gameId": 5237,
+        "gameName": "Them Coconuts",
+        "shortKey": "1m4Sn"
+    },
+    "there-were-cannons": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 1321706,
+        "gameId": 5481,
+        "gameName": "IWHBTW Cannons",
+        "shortKey": "iwhbtwc"
+    },
+    "thisistheonlylevel3": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 1746570,
+        "gameId": 12745,
+        "gameName": "This is the Only Level 3",
+        "shortKey": "TITOL3"
+    },
+    "titol-too": {
+        "apiKey": "f916ce353fbd89ab40ccb881545cb2c5",
+        "bytesTotal": 1869829,
+        "gameId": 5351,
+        "gameName": "TiTOL Too",
+        "shortKey": "TiTOL2"
+    },
+    "titol4": {
+        "apiKey": "f6ced36e43a58304d89f83be86304e89",
+        "bytesTotal": 4850575,
+        "gameId": 12745,
+        "gameName": "This is the Only Level 4",
+        "shortKey": ""
+    },
+    "tower-of-doom-game": {
+        "apiKey": "9f6eb2a299314e772fb66b445660a4c0",
+        "bytesTotal": 2151836,
+        "gameId": 6071,
+        "gameName": "Tower of Doom ",
+        "shortKey": "TowerOfDoom"
+    },
+    "toxers": {
+        "apiKey": "149f5c825119357f19c105f46bb7aed1",
+        "bytesTotal": 8808203,
+        "gameId": 7517,
+        "gameName": "Toxers",
+        "shortKey": "Toxers"
+    },
+    "trapzombie": {
+        "apiKey": "1f2273bea0ad1c1e09bd526cece54b7e",
+        "bytesTotal": 1887997,
+        "gameId": 13086,
+        "gameName": "Trap the Zombie",
+        "shortKey": "TtZ"
+    },
+    "triggerman": {
+        "apiKey": "f99dadc3a4b74a2cf5d0611043438af7",
+        "bytesTotal": 2956807,
+        "gameId": 5903,
+        "gameName": "Triggerman",
+        "shortKey": ""
+    },
+    "try-to-survive": {
+        "apiKey": "e01a84ec49dfae14958072b219ad74b0",
+        "bytesTotal": 6342801,
+        "gameId": 6985,
+        "gameName": "Try to Survive",
+        "shortKey": "Survive"
+    },
+    "turtle-girl": {
+        "apiKey": "9f6eb2a299314e772fb66b445660a4c0",
+        "bytesTotal": 5176440,
+        "gameId": 10541,
+        "gameName": "Turtle Girl",
+        "shortKey": "turtlegirl"
+    },
+    "turtletrigger": {
+        "apiKey": "45161b1988b599c652a2375553037bf6",
+        "bytesTotal": 9307310,
+        "gameId": 13218,
+        "gameName": "Turtle Trigger",
+        "shortKey": "TrtlTrggr"
+    },
+    "vanish": {
+        "apiKey": "a0074cea27c1a887f7f435263baad2e9",
+        "bytesTotal": 9527094,
+        "gameId": 12858,
+        "gameName": "Vanish Rain",
+        "shortKey": ""
+    },
+    "viricide": {
+        "apiKey": "db99326b06b5fb1ba60b51ebf54eadd6",
+        "bytesTotal": 5883612,
+        "gameId": 5706,
+        "gameName": "Viricide",
+        "shortKey": "viricide"
+    },
+    "visible-3": {
+        "apiKey": "0e4308151425dddcf42e29c39d92a410",
+        "bytesTotal": 6890300,
+        "gameId": 6916,
+        "gameName": "Visible III",
+        "shortKey": "visibleIII"
+    },
+    "volt-connect": {
+        "apiKey": "f6b2f7bbabf258b1da53eb2c1203da39",
+        "bytesTotal": 2914672,
+        "gameId": 12468,
+        "gameName": "Volt Connect",
+        "shortKey": "VC"
+    },
+    "voyager": {
+        "apiKey": "6a6fb5c11bfb9abc84294050d244b4b4",
+        "bytesTotal": 8277980,
+        "gameId": 12421,
+        "gameName": "Aerial Voyager",
+        "shortKey": "AV"
+    },
+    "w00t-fish": {
+        "apiKey": "d22f119e064cb4d5df4073cde5bf3d1c",
+        "bytesTotal": 3317115,
+        "gameId": 7137,
+        "gameName": "w00t Fish",
+        "shortKey": "WootFish"
+    },
+    "wake-the-royalty": {
+        "apiKey": "81e402f6d18cfd00bc230089f5128a2a",
+        "bytesTotal": 2341998,
+        "gameId": 5316,
+        "gameName": "Wake the Royalty",
+        "shortKey": "1m4az"
+    },
+    "wake-the-royalty-level-pack": {
+        "apiKey": "81e402f6d18cfd00bc230089f5128a2a",
+        "bytesTotal": 1139420,
+        "gameId": 5797,
+        "gameName": "wake the royalty level pack",
+        "shortKey": "WTRPP"
+    },
+    "wake-up-the-box": {
+        "apiKey": "81e402f6d18cfd00bc230089f5128a2a",
+        "bytesTotal": 849074,
+        "gameId": 4839,
+        "gameName": "wake up the box",
+        "shortKey": "1m4a2"
+    },
+    "wake-up-the-box-2": {
+        "apiKey": "81e402f6d18cfd00bc230089f5128a2a",
+        "bytesTotal": 2113819,
+        "gameId": 7024,
+        "gameName": "Wake up the Box 2",
+        "shortKey": "wutb2"
+    },
+    "wayland": {
+        "apiKey": "415dbce57b6398243433ab2ef166c06f",
+        "bytesTotal": 19384535,
+        "gameId": 11321,
+        "gameName": "Wayland",
+        "shortKey": ""
+    },
+    "wingmen": {
+        "apiKey": "ebf905ba73dfa9ed206d4ca1093cedfe",
+        "bytesTotal": 7587257,
+        "gameId": 6772,
+        "gameName": "Wingmen",
+        "shortKey": "wingmen"
+    },
+    "wizards-run": {
+        "apiKey": "e7fd677cc6831ed7d1ce7c43fffab32d",
+        "bytesTotal": 1210835,
+        "gameId": 7285,
+        "gameName": "Wizards Run",
+        "shortKey": "WizardsRun"
+    },
+    "woe": {
+        "apiKey": "1f2273bea0ad1c1e09bd526cece54b7e",
+        "bytesTotal": 3513635,
+        "gameId": 14048,
+        "gameName": "Wrath of Evil",
+        "shortKey": "WoE"
+    },
+    "word-up-dog": {
+        "apiKey": "68878bc717158477b72892532f9eafe9",
+        "bytesTotal": 4452825,
+        "gameId": 11358,
+        "gameName": "Word Up Dog",
+        "shortKey": "WordUpDog"
+    },
+    "wtb5": {
+        "apiKey": "81e402f6d18cfd00bc230089f5128a2a",
+        "bytesTotal": 5307979,
+        "gameId": 14427,
+        "gameName": "Wake the Box 5",
+        "shortKey": ""
+    },
+    "xstream-fishing": {
+        "apiKey": "79d5d5b6f3a4501f18f6107c212940af",
+        "bytesTotal": 1794849,
+        "gameId": 7251,
+        "gameName": "xStream Fishing",
+        "shortKey": "xStream"
+    },
+    "zom-tee-vee": {
+        "apiKey": "f5990ecb3185756392dd06d43f177e2c",
+        "bytesTotal": 3901782,
+        "gameId": 6290,
+        "gameName": "ZomTV",
+        "shortKey": "ZomTV"
+    },
+    "zombie": {
+        "apiKey": "19a33fde754bc805c3e8b4c6614b34eb",
+        "bytesTotal": 1177126,
+        "gameId": 12503,
+        "gameName": "Zombie Up",
+        "shortKey": "ZGU"
+    },
+    "zombie-knight": {
+        "apiKey": "ac15413be7b07c7c4a508a27c31c4089",
+        "bytesTotal": 2223756,
+        "gameId": 11537,
+        "gameName": "Zombie Knight",
+        "shortKey": ""
+    },
+    "zombie-madness": {
+        "apiKey": "31496967a0a6d4cfeaa1c57e6b4d0717",
+        "bytesTotal": 6041645,
+        "gameId": 13115,
+        "gameName": "Zombie Madness",
+        "shortKey": ""
+    },
+    "zombie-mice": {
+        "apiKey": "d250b4b82f1a7f30d07dded310e8bd76",
+        "bytesTotal": 7352934,
+        "gameId": 6446,
+        "gameName": "Zombie Mice",
+        "shortKey": "Mice"
+    },
+    "zombotron": {
+        "apiKey": "29c0b7f9144e1df98cdffebb7b0f6698",
+        "bytesTotal": 8426526,
+        "gameId": 12000,
+        "gameName": "Zombotron",
+        "shortKey": "Zombotron"
+    },
+    "zombotron2": {
+        "apiKey": "29c0b7f9144e1df98cdffebb7b0f6698",
+        "bytesTotal": 12099139,
+        "gameId": 13457,
+        "gameName": "Zombotron 2",
+        "shortKey": "Zombotron2"
+    },
+    "zomgies": {
+        "apiKey": "57e6ffa35f343197fbd276da0a94ccbb",
+        "bytesTotal": 2831202,
+        "gameId": 4984,
+        "gameName": "zomgies ",
+        "shortKey": "1m4rc"
+    },
+    "zomgies2": {
+        "apiKey": "57e6ffa35f343197fbd276da0a94ccbb",
+        "bytesTotal": 7059322,
+        "gameId": 11442,
+        "gameName": "Zomgies 2",
+        "shortKey": "Zomgies_2"
+    }
+}
